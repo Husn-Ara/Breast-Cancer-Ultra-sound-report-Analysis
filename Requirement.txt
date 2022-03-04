@@ -1,0 +1,8 @@
+Required Python Libraries:
+opencv-python-headless
+streamlit
+PIL
+matplolib
+Pandas
+Numpy
+cv2
